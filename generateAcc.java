@@ -23,7 +23,7 @@ public class generateAcc{
         catch(Exception eo){}
         System.out.println("\n---------------------------------------------");
         System.out.println("🎉 Congratulations! Your account has been created successfully.");
-        System.out.println("Thank you for choosing Alcaerz Bank Union!😂");
+        System.out.println("Thank you for choosing Alcaerz Bank Union!");
         System.out.println("We value your trust and look forward to serving you.");
         System.out.println("Your Account Number --> " + Obj12.acc1);
         System.out.println("Account Type --> " + Obj12.accountType1);
